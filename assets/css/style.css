@@ -1,0 +1,13 @@
+.bg-main {
+    background-color: #b91450;
+    width: 100%;
+    height: 100vh;
+}
+
+.form-bg{
+    background-color: white;
+}
+
+.bg-grey{
+    background-color: grey;
+}
